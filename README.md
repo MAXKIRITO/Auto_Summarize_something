@@ -46,7 +46,7 @@ cap_image.py
 
 cleancache.py
 
-清理 Hugging Face 模型緩存，並重新載入預訓練的 Wav2Vec2 模型和處理器。如果模型無法正確載入，可以通過執行此程式來解決問題。
+Hugging Face 模型緩存，並重新載入預訓練的 Wav2Vec2 模型和處理器。如果模型無法正確載入，可以通過執行此程式來解決問題。
 
 speech2text.py
 
