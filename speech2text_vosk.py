@@ -3,9 +3,9 @@ import sys
 import queue
 import sounddevice as sd
 import vosk
-import json
 import threading
 import logging
+import json
 from datetime import datetime
 import pyaudio
 import jieba
