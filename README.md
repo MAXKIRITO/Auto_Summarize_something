@@ -58,7 +58,9 @@ cam_get_point.py
 
 ## 實際畫面
 
-![圖片](https://hackmd.io/_uploads/rJNDfnfLR.png)
-![圖片](https://hackmd.io/_uploads/BkEYf3f8R.png)
+![圖片](https://github.com/MAXKIRITO/Auto_Summarize_something/assets/67036239/72efb6f1-4edb-41bd-9a91-d1c29ce35273)
+
+![圖片](https://github.com/MAXKIRITO/Auto_Summarize_something/assets/67036239/b2a61c56-9aa9-429b-ae1c-1b1aba5ccb28)
+
 
 如果要看單獨圖片的話會在image_a/ 底下會出現有擷取到的圖片原始檔案
